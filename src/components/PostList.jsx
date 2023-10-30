@@ -19,7 +19,6 @@ const PostList = () => {
       }
     };
 
-    // Simulate a small delay for loading
     setTimeout(() => {
       fetchData();
     }, 1500);
